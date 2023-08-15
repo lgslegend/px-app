@@ -1,5 +1,7 @@
 # Invalid App
 
+ikas.android.projectx.application
+
 For Android 10+, Manage App/App Component(IFW)/Permission/AppOps
 
 https://github.com/ikas-mc/px-app/wiki
